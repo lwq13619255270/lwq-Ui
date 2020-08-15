@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{673:function(n,t,i){"use strict";i.r(t);var c=i(32),s=Object(c.a)({},(function(){var n=this.$createElement,t=this._self._c||n;return t("div",[t("lwq-icon",{attrs:{icon:"bianji"}}),this._v(" "),t("lwq-icon",{attrs:{icon:"soucang"}})],1)}),[],!1,null,null,null);t.default=s.exports}}]);
